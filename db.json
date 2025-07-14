@@ -1,6 +1,5 @@
 {
    "habitaciones": [
-  // Habitación Sencilla (7 unidades)
   { "id": 1, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
   { "id": 2, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
   { "id": 3, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
@@ -8,8 +7,6 @@
   { "id": 5, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
   { "id": 6, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
   { "id": 7, "tipo": "Habitación Sencilla", "disponible": true, "precio": "$60.000", "capacidad": 1, "fechas_ocupadas": [] },
-
-  // Habitación Doble (7 unidades)
   { "id": 8, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
   { "id": 9, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
   { "id": 10, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
@@ -17,27 +14,19 @@
   { "id": 12, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
   { "id": 13, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
   { "id": 14, "tipo": "Habitación Doble", "disponible": true, "precio": "$100.000", "capacidad": 2, "fechas_ocupadas": [] },
-
-  // Habitación Doble + Sencilla (4 unidades)
   { "id": 15, "tipo": "Habitación Doble + Sencilla", "disponible": true, "precio": "$120.000", "capacidad": 3, "fechas_ocupadas": [] },
   { "id": 16, "tipo": "Habitación Doble + Sencilla", "disponible": true, "precio": "$120.000", "capacidad": 3, "fechas_ocupadas": [] },
   { "id": 17, "tipo": "Habitación Doble + Sencilla", "disponible": true, "precio": "$120.000", "capacidad": 3, "fechas_ocupadas": [] },
   { "id": 18, "tipo": "Habitación Doble + Sencilla", "disponible": true, "precio": "$120.000", "capacidad": 3, "fechas_ocupadas": [] },
-
-  // Habitación Triple Plus (5 unidades)
   { "id": 19, "tipo": "Habitación Triple Plus", "disponible": true, "precio": "$150.000", "capacidad": 6, "fechas_ocupadas": [] },
   { "id": 20, "tipo": "Habitación Triple Plus", "disponible": true, "precio": "$150.000", "capacidad": 6, "fechas_ocupadas": [] },
   { "id": 21, "tipo": "Habitación Triple Plus", "disponible": true, "precio": "$150.000", "capacidad": 6, "fechas_ocupadas": [] },
   { "id": 22, "tipo": "Habitación Triple Plus", "disponible": true, "precio": "$150.000", "capacidad": 6, "fechas_ocupadas": [] },
   { "id": 23, "tipo": "Habitación Triple Plus", "disponible": true, "precio": "$150.000", "capacidad": 6, "fechas_ocupadas": [] },
-
-  // Familiar (4 unidades)
   { "id": 24, "tipo": "Familiar", "disponible": true, "precio": "$180.000", "capacidad": 7, "fechas_ocupadas": [] },
   { "id": 25, "tipo": "Familiar", "disponible": true, "precio": "$180.000", "capacidad": 7, "fechas_ocupadas": [] },
   { "id": 26, "tipo": "Familiar", "disponible": true, "precio": "$180.000", "capacidad": 7, "fechas_ocupadas": [] },
   { "id": 27, "tipo": "Familiar", "disponible": true, "precio": "$180.000", "capacidad": 7, "fechas_ocupadas": [] },
-
-  // Habitación Suite Presidencial (3 unidades)
   { "id": 28, "tipo": "Habitación Suite Presidencial", "disponible": true, "precio": "$200.000", "capacidad": 3, "fechas_ocupadas": [] },
   { "id": 29, "tipo": "Habitación Suite Presidencial", "disponible": true, "precio": "$200.000", "capacidad": 3, "fechas_ocupadas": [] },
   { "id": 30, "tipo": "Habitación Suite Presidencial", "disponible": true, "precio": "$200.000", "capacidad": 3, "fechas_ocupadas": [] }
